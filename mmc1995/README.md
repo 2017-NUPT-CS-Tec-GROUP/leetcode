@@ -1,2 +1,2 @@
-# kaggle_101
-Some work on Kaggle data for fun
+# leecode
+Some work on leetcode for fun
