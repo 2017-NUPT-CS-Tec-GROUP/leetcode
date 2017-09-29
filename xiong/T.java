@@ -15,20 +15,22 @@ public abstract class T {
 //		ConvertToBase7 ConvertToBase7= new ConvertToBase7();
 //		String s=ConvertToBase7.convertToBase7(100);
 //		System.out.println(s);
-		ConstructString a=new ConstructString();
+		Insert35 a=new Insert35();
 //		if(a.IsPalindrome("abaaba"))
-		System.out.println(a.countSubstrings("aba"));
+		int nums[]={0,-1,-1,-3,-3};
+			System.out.println(a.findMaxAverage(nums,4));
+		
 //ibvjkmpyzsifuxcabqqpahjdeuzaybqsrsmbfplxycsafogotliyvhxjtkrbzqxlyfwujzhkdafhebvsdhkkdbhlhmaoxmbkqiwiusngkbdhlvxdyvnjrzvxmukvdfobzlmvnbnilnsyrgoygfdzjlymhprcpxsnxpcafctikxxybcusgjwmfklkffehbvlhvxfiddznwumxosomfbgxoruoqrhezgsgidgcfzbtdftjxeahriirqgxbhicoxavquhbkaomrroghdnfkknyigsluqebaqrtcwgmlnvmxoagisdmsokeznjsnwpxygjjptvyjjkbmkxvlivinmpnpxgmmorkasebngirckqcawgevljplkkgextudqaodwqmfljljhrujoerycoojwwgtklypicgkyaboqjfivbeqdlonxeidgxsyzugkntoevwfuxovazcyayvwbcqswzhytlmtmrtwpikgacnpkbwgfmpavzyjoxughwhvlsxsgttbcyrlkaarngeoaldsdtjncivhcfsaohmdhgbwkuemcembmlwbwquxfaiukoqvzmgoeppieztdacvwngbkcxknbytvztodbfnjhbtwpjlzuajnlzfmmujhcggpdcwdquutdiubgcvnxvgspmfumeqrofewynizvynavjzkbpkuxxvkjujectdyfwygnfsukvzflcuxxzvxzravzznpxttduajhbsyiywpqunnarabcroljwcbdydagachbobkcvudkoddldaucwruobfylfhyvjuynjrosxczgjwudpxaqwnboxgxybnngxxhibesiaxkicinikzzmonftqkcudlzfzutplbycejmkpxcygsafzkgudy
 //		TwoSum	TwoSum =new TwoSum();
 //	int[] res=	TwoSum.twoSum2(nums, target);
 //	for(int p:res){
 //		System.out.println(p);
 //	}
-		 int[] aa={4,1,2};
-		 int[] bb={1,3,4,2};
-		 NextGreaterElement a1=new NextGreaterElement();
-//			if(a.IsPalindrome("abaaba"))
-			System.out.println(a1.nextGreaterElement(aa, bb));
+//		 int[] aa={4,1,2};
+//		 int[] bb={1,3,4,2};
+//		 NextGreaterElement a1=new NextGreaterElement();
+////			if(a.IsPalindrome("abaaba"))
+//			System.out.println(a1.nextGreaterElement(aa, bb));
 	}
 
 }
